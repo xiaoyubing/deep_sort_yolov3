@@ -29,8 +29,10 @@ QQ group: 姿态检测＆跟踪 781184396
   The code is compatible with Python 2.7 and 3. The following dependencies are needed to run the tracker:
 
     NumPy
-    sklean
+    Scikit-Learn
     OpenCV
+    keras
+    Pillow
 
   Additionally, feature generation requires TensorFlow-1.4.0.
 
